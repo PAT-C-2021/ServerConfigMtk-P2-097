@@ -10,6 +10,7 @@ namespace ServerConfigMtk_P2_20190140097
 {
     class Program
     {
+        //new
         static void Main(string[] args)
         {
             ServiceHost hostObj = null;
